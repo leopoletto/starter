@@ -21,7 +21,7 @@ The packages under this vendor may include:
 - Website optimization
 - Markdown engines and static site tooling
 
-> You never know how many objects will come in a javascript line on the Chrome Devtools console
+> “Every tool begins as a whisper in the void. This is where mine begin.”
 
 **Author**: Leonardo Poletto  
 **Email**: hello@leopoletto.com  
