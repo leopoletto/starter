@@ -1,0 +1,13 @@
+{
+  "name": "leopoletto/starter",
+  "description": "Placeholder package to reserve the leopoletto vendor namespace on Packagist.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Leo Poletto",
+      "email": "hello@leopoletto.com"
+    }
+  ],
+  "require": {}
+}
