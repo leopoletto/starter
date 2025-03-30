@@ -24,6 +24,5 @@ The packages under this vendor may include:
 > “Every tool begins as a whisper in the void. This is where mine begin.”
 
 **Author**: Leonardo Poletto  
-**Email**: hello@leopoletto.com  
 **License**: [MIT](LICENSE.md)  
 **Co-created with**: 🧙 Wizard
